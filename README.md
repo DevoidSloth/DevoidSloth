@@ -7,4 +7,4 @@ I'm a passionate high school student interested in computer science and machine 
 
 ### 🌟 Projects
 
-Check Out my portfolio here[https://jasonpitchford.com].
+Check Out my portfolio [here](https://jasonpitchford.com).
