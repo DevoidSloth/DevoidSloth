@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jason Pitchford
+# 👋 Hi, I'm Jason
 
 ## 🚀 High School Student | Full-Stack Developer | Machine Learning Enthusiast
 
