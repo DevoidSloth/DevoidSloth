@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jason
 
-## 🚀 High School Student | Full-Stack Developer | Machine Learning Enthusiast
+## 🚀 High School Student | Scientific Programming Intern | Machine Learning Enthusiast
 
 I'm a passionate high school student interested in computer science and machine learning. Currently, I'm focused on building innovative applications and expanding my knowledge.
 
